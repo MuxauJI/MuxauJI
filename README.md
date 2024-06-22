@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[!skills](https://skills.yaroslavevg.ru/nickname/quarkron?theme=dark)
 <!--
 **MuxauJI/MuxauJI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
